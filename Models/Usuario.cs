@@ -16,5 +16,7 @@ namespace movilNavBackend.Models
         public DateTime FechaRegistro { get; set; }
 
 
+
+
     }
 }
